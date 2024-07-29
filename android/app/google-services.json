@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163827600478",
+    "project_id": "trendyol-1c339",
+    "storage_bucket": "trendyol-1c339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163827600478:android:6e9d9d13092240f12838cf",
+        "android_client_info": {
+          "package_name": "com.trendyol_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh8KNOV0ubg160P9WMkPDf3dYBtLbsa4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

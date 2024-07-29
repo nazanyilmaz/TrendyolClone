@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "component": "categories",
+    "title": "Categories"
+  },
+
+  {
+    "id": 2,
+    "component": "introduction",
+    "title": "Introduction"
+  },
+  {
+    "id": 3,
+    "component": "forYouProducts",
+    "title": "Fou You"
+  },
+  {
+    "id": 4,
+    "component": "bestSeller",
+    "title": "Best Seller"
+  },
+  {
+    "id": 5,
+    "component": "newArrival",
+    "title": "New Products"
+  }
+]
